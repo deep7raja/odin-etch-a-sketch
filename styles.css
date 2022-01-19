@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    width: 760px;
+    border: solid 2px blue;
+}
+
+.pixel{
+    border: solid 2px blue;
+    text-align: center;
+}
+
+.hover{
+    background-color: red;
+}
